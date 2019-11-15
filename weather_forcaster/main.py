@@ -1,6 +1,6 @@
 import argparse
 
-from utils import get_weather, print_weather_details
+from .utils import *
 
 
 def main():
